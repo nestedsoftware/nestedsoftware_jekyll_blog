@@ -1,0 +1,36 @@
+{% if page.series %}
+
+  {% assign count = '0' %}
+  {% assign idx = '0' %}
+  {% for post in site.posts reversed %}
+      {% if post.series == page.series %}
+          {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+          {% if post.url == page.url %}
+              {% capture idx %}{{count}}{% endcapture %}
+          {% endif %}
+      {% endif %}
+  {% endfor %}
+
+  <section class="series-section">
+    <div class="series-container">
+      <h3 class="series-title">{{page.series}} ({{ count }} Part Series)</h3>
+      <div class="series-list">
+      {% assign count = '0' %}
+      {% for post in site.posts reversed %}
+      {% if post.series == page.series %}
+        {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+        {% if page.url == post.url %}
+        <div class="series-item current">
+          {{ count }}. {{ post.title }}
+        </div>
+        {% else %}
+        <div class="series-item">
+          <a href="{{post.url}}">{{ count }}. {{ post.title }}</a>
+        </div>
+        {% endif %}
+      {% endif %}
+      {% endfor %}
+      </div>
+    </div>
+  </section>
+{% endif %}

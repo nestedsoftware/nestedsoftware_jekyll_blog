@@ -1,0 +1,53 @@
+  <header>
+    <nav>
+      <div class="logo">Nested Software </div>
+      <ul>
+        <li>
+          <a href="https://twitter.com/nestedsoftware">
+            <span class="fa-stack fa-2x social-icon">
+              <i class="fas fa-square fa-stack-2x"></i>
+              <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/nestedsoftware/">
+            <span class="fa-stack fa-2x social-icon">
+              <i class="fab fa-linkedin fa-stack-2x"></i>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="https://codepen.io/nestedsoftware">
+            <span class="fa-stack fa-2x social-icon">
+              <i class="fas fa-square fa-stack-2x"></i>
+              <i class="fab fa-codepen fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.dev.to/nestedsoftware">
+            <span class="fa-stack fa-2x social-icon">
+              <i class="fab fa-dev fa-stack-2x"></i>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/blog.html" {% if page.name == 'blog.html' %}class="active" {% endif %}>
+            <span class="fa-stack fa-2x social-icon">
+              <i class="fas fa-square fa-stack-2x"></i>
+              <i class="fas fa-blog fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="/index.html" {% if page.name == 'index.html' %}class="active" {% endif %}>
+            <span class="fa-stack fa-2x social-icon">
+              <i class="fas fa-square fa-stack-2x"></i>
+              <i class="fas fa-home fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </header>
