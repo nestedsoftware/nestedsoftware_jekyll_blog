@@ -3,7 +3,7 @@ title: Thoughts on Meetings, Priorities, and Time Management
 published: true
 cover_image: /assets/images/2019-07-23-thoughts-on-meetings-priorities-and-time-management-4ni9.146607/ykjpqd9m2wm7dmp9gqla.jpg
 description: Goals, priorities, and communication
-canonical_url: https://nestedsoftware.github.io/2019/07/23/thoughts-on-meetings-priorities-and-time-management-4ni9.146607.html
+canonical_url: https://nestedsoftware.com/2019/07/23/thoughts-on-meetings-priorities-and-time-management-4ni9.146607.html
 tags: meetings, priorities, time management, productivity
 ---
 

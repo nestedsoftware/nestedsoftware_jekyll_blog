@@ -4,7 +4,7 @@ published: true
 cover_image: /assets/images/2019-05-05-neural-networks-primer-374i.105712/xudubj78tg9zab9j90ue.jpg
 description: Overview of the structure, calculations, and code needed to implement a simple neural network from scratch
 series: Neural Networks
-canonical_url: https://nestedsoftware.github.io/2019/05/05/neural-networks-primer-374i.105712.html
+canonical_url: https://nestedsoftware.com/2019/05/05/neural-networks-primer-374i.105712.html
 tags: neural networks, machine learning, python, ai
 ---
 

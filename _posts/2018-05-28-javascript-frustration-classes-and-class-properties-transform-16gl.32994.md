@@ -3,7 +3,7 @@ title: JavaScript Frustration&#58; Classes and Class Properties Transform
 published: true
 description: JavaScript class properties transform
 cover_image: /assets/images/2018-05-28-javascript-frustration-classes-and-class-properties-transform-16gl.32994/ec864y2swcurr7aj4apd.jpg
-canonical_url: https://nestedsoftware.github.io/2018/05/28/javascript-frustration-classes-and-class-properties-transform-16gl.32994.html
+canonical_url: https://nestedsoftware.com/2018/05/28/javascript-frustration-classes-and-class-properties-transform-16gl.32994.html
 tags: javascript, react, propertiestransform
 ---
 

@@ -4,7 +4,7 @@ published: true
 description: Derivation and sample code for an incremental running average
 series: Moving Average on Streaming Data
 cover_image: /assets/images/2018-03-20-calculating-a-moving-average-on-streaming-data-5a7k.22879/c95xtgp8eg6qxj10onsh.jpg
-canonical_url: https://nestedsoftware.github.io/2018/03/20/calculating-a-moving-average-on-streaming-data-5a7k.22879.html
+canonical_url: https://nestedsoftware.com/2018/03/20/calculating-a-moving-average-on-streaming-data-5a7k.22879.html
 tags: javascript, math, statistics, average
 ---
 

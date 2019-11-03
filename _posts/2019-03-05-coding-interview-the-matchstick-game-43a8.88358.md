@@ -3,7 +3,7 @@ title: Coding Interview&#58; The Matchstick Game
 published: true
 description: Programming interview problem solving walkthrough 
 cover_image: /assets/images/2019-03-05-coding-interview-the-matchstick-game-43a8.88358/tdwjejyra24um12zxevu.jpg
-canonical_url: https://nestedsoftware.github.io/2019/03/05/coding-interview-the-matchstick-game-43a8.88358.html
+canonical_url: https://nestedsoftware.com/2019/03/05/coding-interview-the-matchstick-game-43a8.88358.html
 tags: elm, problem solving, interview
 ---
 

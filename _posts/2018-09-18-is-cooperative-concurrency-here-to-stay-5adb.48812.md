@@ -3,7 +3,7 @@ title: Is Cooperative Concurrency Here to Stay?
 published: true
 description: Cooperative concurrency, non-blocking I/O and horizontal scalability
 cover_image: /assets/images/2018-09-18-is-cooperative-concurrency-here-to-stay-5adb.48812/ld7s9n3u6mzsm857kgfj.jpg
-canonical_url: https://nestedsoftware.github.io/2018/09/18/is-cooperative-concurrency-here-to-stay-5adb.48812.html
+canonical_url: https://nestedsoftware.com/2018/09/18/is-cooperative-concurrency-here-to-stay-5adb.48812.html
 tags: concurrency, nonblocking, scalability, architecture
 ---
 

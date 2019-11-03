@@ -4,7 +4,7 @@ published: true
 description: Introducing asynchronous generator functions and pipelines in javascript
 series: Asynchronous Iterators and Generators
 cover_image: /assets/images/2018-04-23-asynchronous-generators-and-pipelines-in-javascript--1h62.26991/8w4al8f1wwhqra7a0w15.jpg
-canonical_url: https://nestedsoftware.github.io/2018/04/23/asynchronous-generators-and-pipelines-in-javascript-1h62.26991.html
+canonical_url: https://nestedsoftware.com/2018/04/23/asynchronous-generators-and-pipelines-in-javascript-1h62.26991.html
 tags: javascript, async, generator, ES2018
 ---
 

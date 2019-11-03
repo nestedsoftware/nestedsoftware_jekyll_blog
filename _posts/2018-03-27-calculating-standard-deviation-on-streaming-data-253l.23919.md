@@ -4,7 +4,7 @@ published: true
 description: Derivation and sample code for an incremental running variance and standard deviation
 series: Moving Average on Streaming Data
 cover_image: /assets/images/2018-03-27-calculating-standard-deviation-on-streaming-data-253l.23919/10dau4xo3q14winpyy42.jpg
-canonical_url: https://nestedsoftware.github.io/2018/03/27/calculating-standard-deviation-on-streaming-data-253l.23919.html
+canonical_url: https://nestedsoftware.com/2018/03/27/calculating-standard-deviation-on-streaming-data-253l.23919.html
 tags: javascript, math, statistics, standarddeviation
 ---
 >This article is a continuation of the one about the [moving average]({% link _posts/2018-03-20-calculating-a-moving-average-on-streaming-data-5a7k.22879.md %}), so it’s probably a good idea to read that one first.

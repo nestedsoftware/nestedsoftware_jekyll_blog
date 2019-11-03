@@ -3,7 +3,7 @@ title: Strategies for Effective Programming
 published: true
 description: Strategies for effective programming
 cover_image: /assets/images/2018-07-09-strategies-for-effective-programming-21lc.36488/u70ql7dx6mdmpg2a9cai.jpg
-canonical_url: https://nestedsoftware.github.io/2018/07/09/strategies-for-effective-programming-21lc.36488.html
+canonical_url: https://nestedsoftware.com/2018/07/09/strategies-for-effective-programming-21lc.36488.html
 tags: programming, productivity, motivation, progress
 ---
 

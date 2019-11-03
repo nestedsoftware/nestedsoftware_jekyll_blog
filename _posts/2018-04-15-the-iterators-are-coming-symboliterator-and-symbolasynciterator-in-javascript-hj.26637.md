@@ -4,7 +4,7 @@ published: true
 description: Exploration of synchronous and asynchronous iteration in JavaScript
 series: Asynchronous Iterators and Generators
 cover_image: /assets/images/2018-04-15-the-iterators-are-coming-symboliterator-and-symbolasynciterator-in-javascript-hj.26637/qajkvzn46l1ql7k1rhtg.jpg
-canonical_url: https://nestedsoftware.github.io/2018/04/15/the-iterators-are-coming-symboliterator-and-symbolasynciterator-in-javascript-hj.26637.html
+canonical_url: https://nestedsoftware.com/2018/04/15/the-iterators-are-coming-symboliterator-and-symbolasynciterator-in-javascript-hj.26637.html
 tags: javascript, iterator, asyncIterator, forof
 ---
 

@@ -3,7 +3,7 @@ title: Careful Examination of JavaScript Await
 published: true
 description: Examination of how async/await works in javascript
 cover_image: /assets/images/2018-04-06-careful-examination-of-javascript-await--109.25561/l82sxida87og3adym2xw.jpg
-canonical_url: https://nestedsoftware.github.io/2018/04/06/careful-examination-of-javascript-await-109.25561.html 
+canonical_url: https://nestedsoftware.com/2018/04/06/careful-examination-of-javascript-await-109.25561.html 
 tags: javascript, async, await, promise
 ---
 

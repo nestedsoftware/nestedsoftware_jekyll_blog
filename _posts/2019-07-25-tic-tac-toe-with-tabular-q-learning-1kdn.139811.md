@@ -4,7 +4,7 @@ published: true
 cover_image: /assets/images/2019-07-25-tic-tac-toe-with-tabular-q-learning-1kdn.139811/rovqbydbohlg6cju3mqq.jpg
 description: Simple implementation of Q-table reinforcement learning for tic-tac-toe in Python
 series: Tic-Tac-Toe
-canonical_url: https://nestedsoftware.github.io/2019/07/25/tic-tac-toe-with-tabular-q-learning-1kdn.139811.html
+canonical_url: https://nestedsoftware.com/2019/07/25/tic-tac-toe-with-tabular-q-learning-1kdn.139811.html
 tags: python, tic-tac-toe, q-learning, algorithms
 ---
 

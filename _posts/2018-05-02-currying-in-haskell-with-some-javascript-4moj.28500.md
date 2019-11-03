@@ -3,7 +3,7 @@ title: Currying in Haskell (With Some JavaScript)
 published: true
 description: Discussion of Haskell's currying of functions and comparison with javascript
 cover_image: /assets/images/2018-05-02-currying-in-haskell-with-some-javascript-4moj.28500/yf9e5yfkmxc99o6t5kh8.jpg
-canonical_url: https://nestedsoftware.github.io/2018/05/02/currying-in-haskell-with-some-javascript-4moj.28500.html
+canonical_url: https://nestedsoftware.com/2018/05/02/currying-in-haskell-with-some-javascript-4moj.28500.html
 tags: haskell, currying, javascript 
 ---
 

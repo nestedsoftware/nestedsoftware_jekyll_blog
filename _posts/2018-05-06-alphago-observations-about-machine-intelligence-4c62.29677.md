@@ -3,7 +3,7 @@ title: AlphaGo&#58; Observations about Machine Intelligence
 published: true
 description: AlphaGo and observations about machine intelligence
 cover_image: /assets/images/2018-05-06-alphago-observations-about-machine-intelligence-4c62.29677/xr297vydxhsb271pmiii.jpg
-canonical_url: https://nestedsoftware.github.io/2018/05/06/alphago-observations-about-machine-intelligence-4c62.29677.html
+canonical_url: https://nestedsoftware.com/2018/05/06/alphago-observations-about-machine-intelligence-4c62.29677.html
 tags: ai, deeplearning, alphago, weiqi
 ---
 

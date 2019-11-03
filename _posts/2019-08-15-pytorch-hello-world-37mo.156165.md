@@ -4,7 +4,7 @@ published: true
 cover_image: /assets/images/2019-08-15-pytorch-hello-world-37mo.156165/muie09ovdv9s5qaqvhov.jpg
 description: Compare results from PyTorch with a manual backpropagation calculation
 series: PyTorch
-canonical_url: https://nestedsoftware.github.io/2019/08/15/pytorch-hello-world-37mo.156165.html
+canonical_url: https://nestedsoftware.com/2019/08/15/pytorch-hello-world-37mo.156165.html
 tags: python, pytorch, neuralnetworks, machinelearning
 ---
 

@@ -3,7 +3,7 @@ title: How (Not) to Learn
 published: true
 cover_image: /assets/images/2018-11-10-how-not-to-learn-5flm.50530/2mc3q85i0wzquufl1j82.jpg
 description: Rules of thumb about how to (and how not to) learn effectively
-canonical_url: https://nestedsoftware.github.io/2018/11/10/how-not-to-learn-5flm.50530.html
+canonical_url: https://nestedsoftware.com/2018/11/10/how-not-to-learn-5flm.50530.html
 tags: learning, computerscience, education
 ---
 

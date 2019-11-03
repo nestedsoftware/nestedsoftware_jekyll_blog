@@ -3,7 +3,7 @@ title: Big-O&#58; Prime Factors and Pseudo-Polynomial Time
 published: true
 description: Pseudo-polynomial algorithms and input length 
 cover_image: /assets/images/2018-12-18-big-o-prime-factors-and-pseudo-polynomial-time-55cp.69665/pryk3l869b2vqxz4zifc.jpg
-canonical_url: https://nestedsoftware.github.io/2018/12/18/big-o-prime-factors-and-pseudo-polynomial-time-55cp.69665.html
+canonical_url: https://nestedsoftware.com/2018/12/18/big-o-prime-factors-and-pseudo-polynomial-time-55cp.69665.html
 tags: algorithms, big-o, complexity, python
 ---
 

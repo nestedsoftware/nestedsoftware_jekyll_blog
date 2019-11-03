@@ -4,7 +4,7 @@ published: true
 description: Exploration of the exponential moving average, also commonly known as a low-pass filter
 series: Moving Average on Streaming Data
 cover_image: /assets/images/2018-04-04-exponential-moving-average-on-streaming-data-4hhl.24876/roeeuxoi4u1deco3l7lz.jpg
-canonical_url: https://nestedsoftware.github.io/2018/04/04/exponential-moving-average-on-streaming-data-4hhl.24876.html
+canonical_url: https://nestedsoftware.com/2018/04/04/exponential-moving-average-on-streaming-data-4hhl.24876.html
 tags: javascript, math, statistics, exponentialaverage
 ---
 

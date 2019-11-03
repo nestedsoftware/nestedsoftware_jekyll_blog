@@ -3,7 +3,7 @@ title: Flask and SQLAlchemy without the Flask-SQLAlchemy Extension
 published: true
 description: How to use SQLAlchemy with Flask without the Flask-SQLAlchemy extension
 cover_image: /assets/images/2018-06-11-flask-and-sqlalchemy-without-the-flask-sqlalchemy-extension-3cf8.34704/ep5jkljpqv8hjr07rtbo.jpg
-canonical_url: https://nestedsoftware.github.io/2018/06/11/flask-and-sqlalchemy-without-the-flask-sqlalchemy-extension-3cf8.34704.html
+canonical_url: https://nestedsoftware.com/2018/06/11/flask-and-sqlalchemy-without-the-flask-sqlalchemy-extension-3cf8.34704.html
 tags: python, flask, sqlalchemy
 ---
 

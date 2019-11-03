@@ -3,7 +3,7 @@ title: "How to Serialize Concurrent Operations in JavaScript&#58; Callbacks, Pro
 published: true
 description: How to serialize concurrency in JS with callbacks, promises, and async/await
 cover_image: /assets/images/2018-03-05-how-to-serialize-concurrent-operations-in-javascript-callbacks-promises-and-asyncawait-3ge3.21305/sky6tjfjdt9jebyf8ywm.jpg
-canonical_url: https://nestedsoftware.github.io/2018/03/05/how-to-serialize-concurrent-operations-in-javascript-callbacks-promises-and-asyncawait-3ge3.21305.html
+canonical_url: https://nestedsoftware.com/2018/03/05/how-to-serialize-concurrent-operations-in-javascript-callbacks-promises-and-asyncawait-3ge3.21305.html
 tags: javascript, callbacks, promises, await
 ---
 

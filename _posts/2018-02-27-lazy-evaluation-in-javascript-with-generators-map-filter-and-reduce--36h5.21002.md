@@ -3,7 +3,7 @@ title: Lazy Evaluation in JavaScript with Generators, Map, Filter, and Reduce
 published: true
 description: A simple wrapper class in JavaScript for map, filter, and reduce
 cover_image: /assets/images/2018-02-27-lazy-evaluation-in-javascript-with-generators-map-filter-and-reduce--36h5.21002/qibwx9lwo3mi62m77tbh.jpg
-canonical_url: https://nestedsoftware.github.io/2018/02/27/lazy-evaluation-in-javascript-with-generators-map-filter-and-reduce-36h5.21002.html
+canonical_url: https://nestedsoftware.com/2018/02/27/lazy-evaluation-in-javascript-with-generators-map-filter-and-reduce-36h5.21002.html
 tags: javascript, map, filter, reduce
 ---
 

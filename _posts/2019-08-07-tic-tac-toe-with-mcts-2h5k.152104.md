@@ -4,7 +4,7 @@ published: true
 cover_image: /assets/images/2019-08-07-tic-tac-toe-with-mcts-2h5k.152104/4538s35s9scpgpuqb2wx.jpg
 description: Simple implementation of MCTS for tic-tac-toe in Python
 series: Tic-Tac-Toe
-canonical_url: https://nestedsoftware.github.io/2019/08/07/tic-tac-toe-with-mcts-2h5k.152104.html
+canonical_url: https://nestedsoftware.com/2019/08/07/tic-tac-toe-with-mcts-2h5k.152104.html
 tags: python, tictactoe, mcts, uct
 ---
 

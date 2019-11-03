@@ -3,7 +3,7 @@ title: Book Notes&#58; Learn You a Haskell for Great Good!
 published: true
 description: Brain dump after reading Learn You a Haskell for Great Good!
 cover_image: /assets/images/2018-12-04-book-notes-learn-you-a-haskell-for-great-good-2cnp.64983/nm9q01coa2gzmuxeoa8z.jpg
-canonical_url: https://nestedsoftware.github.io/2018/12/04/book-notes-learn-you-a-haskell-for-great-good-2cnp.64983.html
+canonical_url: https://nestedsoftware.com/2018/12/04/book-notes-learn-you-a-haskell-for-great-good-2cnp.64983.html
 tags: haskell, functional, monad, javascript
 ---
 

@@ -3,7 +3,7 @@ title: The Geometry of Standard Deviation
 published: true
 description: A geometric interpretation of variance and standard deviation
 cover_image: /assets/images/2018-03-12-the-geometry-of-standard-deviation--3m3o.21736/hm8is2gccaqkfg9gp1mf.png
-canonical_url: https://nestedsoftware.github.io/2018/03/12/the-geometry-of-standard-deviation-3m3o.21736.html
+canonical_url: https://nestedsoftware.com/2018/03/12/the-geometry-of-standard-deviation-3m3o.21736.html
 tags: math, geometry, statistics, standard deviation
 ---
 

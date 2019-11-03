@@ -4,7 +4,7 @@ published: true
 description: Incremental statistics on streaming data using a sliding window
 series: Moving Average on Streaming Data
 cover_image: /assets/images/2019-09-26-incremental-average-and-standard-deviation-with-sliding-window-470k.176143/kkdze89gfbuxe3gwfzl3.jpg
-canonical_url: https://nestedsoftware.github.io/2019/09/26/incremental-average-and-standard-deviation-with-sliding-window-470k.176143.html
+canonical_url: https://nestedsoftware.com/2019/09/26/incremental-average-and-standard-deviation-with-sliding-window-470k.176143.html
 tags: javascript, math, statistics, sliding_average
 ---
 

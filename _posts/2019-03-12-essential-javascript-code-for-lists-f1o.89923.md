@@ -3,7 +3,7 @@ title: Essential JavaScript code for lists
 published: true
 description: A cheatsheet of javascript array-manipulation techniques for coding interviews
 cover_image: /assets/images/2019-03-12-essential-javascript-code-for-lists-f1o.89923/ikxuubv1t1cvr85d5cp8.jpg
-canonical_url: https://nestedsoftware.github.io/2019/03/12/essential-javascript-code-for-lists-f1o.89923.html
+canonical_url: https://nestedsoftware.com/2019/03/12/essential-javascript-code-for-lists-f1o.89923.html
 tags: javascript, beginners, interview, arrays 
 ---
 

@@ -4,7 +4,7 @@ published: true
 cover_image: /assets/images/2019-05-28-convolutional-neural-networks-an-intuitive-primer-k1k.114570/xnzn4a29z6zyarov00af.jpg
 description: Using intuition to motivate the structure, calculations, and code for convolutional neural networks
 series: Neural Networks
-canonical_url: https://nestedsoftware.github.io/2019/05/28/convolutional-neural-networks-an-intuitive-primer-k1k.114570.html
+canonical_url: https://nestedsoftware.com/2019/05/28/convolutional-neural-networks-an-intuitive-primer-k1k.114570.html
 tags: deeplearning, neural networks, machine learning, python
 ---
 

@@ -3,7 +3,7 @@ title: Functional Programming with Forms in React
 published: true
 description: Use functional programming to start building a Formik-like framework for React forms
 cover_image: /assets/images/2018-10-02-forms-in-react-a-functional-programming-primer-183.52688/vqquz2vcee7cjlzl4eyf.jpg
-canonical_url: https://nestedsoftware.github.io/2018/10/02/forms-in-react-a-functional-programming-primer-183.52688.html
+canonical_url: https://nestedsoftware.com/2018/10/02/forms-in-react-a-functional-programming-primer-183.52688.html
 tags: javascript, react, functional, formik
 ---
 

@@ -4,7 +4,7 @@ published: true
 cover_image: /assets/images/2019-08-19-pytorch-image-recognition-dense-network-3nbd.158001/vimg1nkfe1n49p2kfdqf.jpg
 description: PyTorch implementation of a simple fully connected network for recognizing MNIST digits
 series: PyTorch
-canonical_url: https://nestedsoftware.github.io/2019/08/19/pytorch-image-recognition-dense-network-3nbd.158001.html
+canonical_url: https://nestedsoftware.com/2019/08/19/pytorch-image-recognition-dense-network-3nbd.158001.html
 tags: python, pytorch, neuralnetworks, mnist
 ---
 

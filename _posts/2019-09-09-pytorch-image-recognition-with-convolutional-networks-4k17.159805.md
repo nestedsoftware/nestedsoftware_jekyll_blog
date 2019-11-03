@@ -4,7 +4,7 @@ published: true
 cover_image: /assets/images/2019-09-09-pytorch-image-recognition-with-convolutional-networks-4k17.159805/hzc4hdwc234t7p728i5c.jpg
 description: Convolutional network variations for recognizing MNIST digits
 series: PyTorch
-canonical_url: https://nestedsoftware.github.io/2019/09/09/pytorch-image-recognition-with-convolutional-networks-4k17.159805.html
+canonical_url: https://nestedsoftware.com/2019/09/09/pytorch-image-recognition-with-convolutional-networks-4k17.159805.html
 tags: python, pytorch, cnn, mnist
 ---
 

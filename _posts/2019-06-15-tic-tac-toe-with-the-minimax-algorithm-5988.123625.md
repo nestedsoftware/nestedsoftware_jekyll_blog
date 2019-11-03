@@ -4,7 +4,7 @@ published: true
 cover_image: /assets/images/2019-06-15-tic-tac-toe-with-the-minimax-algorithm-5988.123625/pkgy4v2fobn3iqdr4881.jpg
 description: Simple implementation of the minimax algorithm for tic-tac-toe in Python
 series: Tic-Tac-Toe
-canonical_url: https://nestedsoftware.github.io/2019/06/15/tic-tac-toe-with-the-minimax-algorithm-5988.123625.html
+canonical_url: https://nestedsoftware.com/2019/06/15/tic-tac-toe-with-the-minimax-algorithm-5988.123625.html
 tags: python, tic-tac-toe, minimax, algorithms
 ---
 

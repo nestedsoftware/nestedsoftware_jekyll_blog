@@ -3,7 +3,7 @@ title: Basic Functional Programming Patterns in JavaScript
 published: true
 cover_image: /assets/images/2018-10-14-basic-functional-programming-patterns-in-javascript-49p2.53835/yy0mf7thtohs0ov0o99v.jpg
 description: Using functional programming patterns for iteration
-canonical_url: https://nestedsoftware.github.io/2018/10/14/basic-functional-programming-patterns-in-javascript-49p2.53835.html
+canonical_url: https://nestedsoftware.com/2018/10/14/basic-functional-programming-patterns-in-javascript-49p2.53835.html
 tags: javascript, functional, beginners, reduce
 ---
 
