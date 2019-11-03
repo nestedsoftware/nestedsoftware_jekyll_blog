@@ -8,7 +8,7 @@ canonical_url: https://nestedsoftware.github.io/2019/08/07/tic-tac-toe-with-mcts
 tags: python, tictactoe, mcts, uct
 ---
 
-So far in this series, we've implemented tic-tac-toe with [minimax](https://dev.to/nestedsoftware/tic-tac-toe-with-the-minimax-algorithm-5988) and [tabular Q-learning]({% link _posts/2019-07-25-tic-tac-toe-with-tabular-q-learning-1kdn.139811.md %}). In this article we'll use another common technique, [MCTS](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search), or Monte Carlo tree search. 
+So far in this series, we've implemented tic-tac-toe with [minimax]({% link _posts/2019-06-15-tic-tac-toe-with-the-minimax-algorithm-5988.123625.md %}) and [tabular Q-learning]({% link _posts/2019-07-25-tic-tac-toe-with-tabular-q-learning-1kdn.139811.md %}). In this article we'll use another common technique, [MCTS](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search), or Monte Carlo tree search. 
 
 [Monte Carlo simulations](https://en.wikipedia.org/wiki/Monte_Carlo_method) are used in many different areas of computing.  Monte Carlo is a [_heuristic_](https://en.wikipedia.org/wiki/Heuristic_(computer_science)). With a heuristic, we are not guaranteed precisely the correct or the best answer, but we can get an approximation that can often be good enough. Some problems that can't be solved analytically, or (in a reasonable amount of time) by exhausting all possibilities, become tractable if we run a bunch of simulations instead.  
 

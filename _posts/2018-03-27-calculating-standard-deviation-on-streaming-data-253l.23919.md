@@ -7,7 +7,7 @@ cover_image: /assets/images/2018-03-27-calculating-standard-deviation-on-streami
 canonical_url: https://nestedsoftware.github.io/2018/03/27/calculating-standard-deviation-on-streaming-data-253l.23919.html
 tags: javascript, math, statistics, standarddeviation
 ---
->This article is a continuation of the one about the [moving average]((https://dev.to/nestedsoftware/calculating-a-moving-average-on-streaming-data-5a7k)), so it’s probably a good idea to read that one first.
+>This article is a continuation of the one about the [moving average]({% link _posts/2018-03-20-calculating-a-moving-average-on-streaming-data-5a7k.22879.md %}), so it’s probably a good idea to read that one first.
 
 In this article we will explore calculating variance and standard deviation incrementally. The idea is to provide a method that:
 

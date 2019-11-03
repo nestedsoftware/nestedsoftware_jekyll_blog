@@ -8,7 +8,7 @@ canonical_url: https://nestedsoftware.github.io/2018/03/20/calculating-a-moving-
 tags: javascript, math, statistics, average
 ---
 
-Recently I needed to calculate some statistics (the average and the standard deviation) on a stream of incoming data. I did some research about it, and this article is the result. I'm going to split it into several parts. This first part is about how to calculate the average incrementally. The [second part](https://dev.to/nestedsoftware/calculating-standard-deviation-on-streaming-data-253l) will be about how do the same thing with the standard deviation. A third part will be about the [exponential moving average]({% link _posts/2018-04-04-exponential-moving-average-on-streaming-data-4hhl.24876.md %}), also known as a low pass filter.
+Recently I needed to calculate some statistics (the average and the standard deviation) on a stream of incoming data. I did some research about it, and this article is the result. I'm going to split it into several parts. This first part is about how to calculate the average incrementally. The [second part]({% link _posts/2018-03-27-calculating-standard-deviation-on-streaming-data-253l.23919.md %}) will be about how do the same thing with the standard deviation. A third part will be about the [exponential moving average]({% link _posts/2018-04-04-exponential-moving-average-on-streaming-data-4hhl.24876.md %}), also known as a low pass filter.
 
 >What people often call the 'average' is more technically referred to in statistics as the 'arithmetic mean'. For this article, the terms 'average' and 'mean' are interchangeable.
 

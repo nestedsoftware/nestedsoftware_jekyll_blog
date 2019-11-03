@@ -93,10 +93,10 @@ Now, all of the feature neurons share a single bias, so how should we aggregate 
 
 Each neuron in the feature map receives its own small part of the previous layer as input, and produces some activation as a result. During backpropagation, _∂C/da<sup>L</sup>_ tells us how an adjustment to each of these activations will affect the cost function. It's as if we only had a single neuron that received multiple consecutive training inputs, and for each of those inputs, it received a value of _∂C/da<sup>L</sup>_ during backpropagation. In that case, we'd adjust the bias consecutively for each training input as follows:
 
-_b -= ∂c/db<sub>1</sub> * step_size_
-_b -= ∂c/db<sub>2</sub> * step_size_
-_b -= ∂c/db<sub>3</sub> * step_size_
-_b -= ∂c/db<sub>4</sub> * step_size_
+* _b -= ∂c/db<sub>1</sub> * step_size_
+* _b -= ∂c/db<sub>2</sub> * step_size_
+* _b -= ∂c/db<sub>3</sub> * step_size_
+* _b -= ∂c/db<sub>4</sub> * step_size_
 
 In fact, we can do just that. We add together the values of _∂C/db_ for each feature neuron. We can see that adjusting the bias using this sum produces the same result as we see in the above equations, thanks to the associativity of addition:
 

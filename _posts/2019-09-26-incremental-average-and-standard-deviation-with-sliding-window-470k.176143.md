@@ -8,7 +8,7 @@ canonical_url: https://nestedsoftware.github.io/2019/09/26/incremental-average-a
 tags: javascript, math, statistics, sliding_average
 ---
 
-I was pleasantly surprised recently to get a question from a reader about a couple of my articles, [Calculating a Moving Average on Streaming Data](https://dev.to/nestedsoftware/calculating-a-moving-average-on-streaming-data-5a7k) and [Calculating Standard Deviation on Streaming Data]({% link _posts/2018-03-27-calculating-standard-deviation-on-streaming-data-253l.23919.md %}). The question was, _instead of updating the statistics cumulatively, would it be possible to consider only a window of fixed size instead?_
+I was pleasantly surprised recently to get a question from a reader about a couple of my articles, [Calculating a Moving Average on Streaming Data]({% link _posts/2018-03-20-calculating-a-moving-average-on-streaming-data-5a7k.22879.md %}) and [Calculating Standard Deviation on Streaming Data]({% link _posts/2018-03-27-calculating-standard-deviation-on-streaming-data-253l.23919.md %}). The question was, _instead of updating the statistics cumulatively, would it be possible to consider only a window of fixed size instead?_
 
 In other words, say we set the window size to _20_ items. Once the window is full, each time a new value comes along, we include it as part of the updated average and standard deviation, but the oldest value is also removed from consideration. Only the most recent _20_ items are used (or whatever the window size happens to be).
 
