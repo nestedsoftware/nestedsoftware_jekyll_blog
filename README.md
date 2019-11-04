@@ -1,4 +1,4 @@
-Jekyll project for my professional landing page and blog. Assuming Ruby and Jekyll are installed, to build, run:
+Jekyll project for my professional landing page and blog. To build (Ruby must be installed), run:
 
 * bundle exec jekyll build
 
