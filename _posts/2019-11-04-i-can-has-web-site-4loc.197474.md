@@ -48,9 +48,9 @@ Supporting comments seems to be a rather hairy area. I found a neat little proje
 
 For the time being, I've deployed my small site to GitHub pages:
 
-* [https://nestedsoftware.com](https://nestedsoftware.com/) 
+* [https://nestedsoftware.com](https://nestedsoftware.com) 
 
-I used [Google Domains](https://domains.google/) for the custom domain registration). Even though I'm not a designer, I'm pretty happy with the results, and it feels good to have a self-hosted version of my blog, as well as a central spot for my online presence. 
+I used [Google Domains](https://domains.google) for the custom domain registration. Even though I'm not a designer, I'm pretty happy with the results, and it feels good to have a self-hosted version of my blog, as well as a central spot for my online presence. 
 
 Writing some of these articles has been a lot of work, and it's been gnawing at the back of my mind that if something catastrophic were to happen to DEV.to, I would lose a huge amount of work! I know, realistically, it's not going to happen, but it still gives me some peace of mind knowing that I've got a back up. 
 
