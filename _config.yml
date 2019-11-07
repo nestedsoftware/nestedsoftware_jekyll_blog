@@ -1,6 +1,15 @@
 gist:
   noscript: false
 
+gems:
+  - jekyll-codepen
+
+codepen:
+  theme: 11473
+  height: 600
+  preview: false
+  default_tab: result
+
 defaults:
   -
     scope:
