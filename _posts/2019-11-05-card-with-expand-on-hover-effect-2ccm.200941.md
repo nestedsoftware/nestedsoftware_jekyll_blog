@@ -3,6 +3,7 @@ title: Card with expand-on-hover effect
 published: true
 description: A demo of a selectable card with a cool expand-on-hover effect
 cover_image: /assets/images/2019-11-05-card-with-expand-on-hover-effect-2ccm.200941/obbj6mlbljvhgl7ptoqf.jpg
+canonical_url: https://nestedsoftware.com/2019/11/05/card-with-expand-on-hover-effect-2ccm.200941.html
 tags: css, html, showdev
 ---
 

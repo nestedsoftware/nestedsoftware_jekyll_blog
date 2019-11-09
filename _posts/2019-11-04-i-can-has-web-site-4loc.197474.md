@@ -3,6 +3,7 @@ title: I can has web site?
 published: true
 description: Creating my professional landing page including a copy of my dev.to blog
 cover_image: /assets/images/2019-11-04-i-can-has-web-site-4loc.197474/gnogt6p2lyzcp9xpl3a9.jpg
+canonical_url: https://nestedsoftware.com/2019/11/04/i-can-has-web-site-4loc.197474.html
 tags: python, jekyll, showdev
 ---
 

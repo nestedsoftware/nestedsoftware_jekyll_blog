@@ -4,14 +4,16 @@
 }
 
 .article h2 {
-  margin-top: 30px;
+  margin-top: 25px;
+  margin-bottom: 0px;
 }
 
 .article {
-    font-family: 'Source Sans Pro', serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 20px;
     margin-left: 15px;
     margin-right: 15px;
+    line-height: 1.5;
 }
 
 .article img {

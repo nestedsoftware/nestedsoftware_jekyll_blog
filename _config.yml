@@ -1,8 +1,13 @@
 gist:
   noscript: false
 
-gems:
+url: "https://nestedsoftware.com"
+
+plugins:
+  - jekyll-seo-tag
   - jekyll-codepen
+  - jekyll-gist
+  - jekyll-sitemap
 
 codepen:
   theme: 11473
