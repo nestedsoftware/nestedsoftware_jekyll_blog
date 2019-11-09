@@ -1,6 +1,3 @@
-gist:
-  noscript: false
-
 url: "https://nestedsoftware.com"
 
 plugins:
@@ -15,6 +12,9 @@ codepen:
   preview: false
   default_tab: result
 
+gist:
+  noscript: false
+
 defaults:
   -
     scope:
@@ -22,4 +22,3 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-
