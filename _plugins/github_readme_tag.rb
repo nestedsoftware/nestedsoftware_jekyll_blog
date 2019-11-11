@@ -33,7 +33,6 @@ module Jekyll
       return Octokit::Client.new
     end
 
-
     def template
       <<~HTML_TEMPLATE
       <div class="readme_container">
