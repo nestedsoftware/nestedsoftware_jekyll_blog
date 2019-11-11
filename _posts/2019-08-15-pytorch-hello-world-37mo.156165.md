@@ -202,7 +202,7 @@ We can see that the results match the ones from the PyTorch network! In the next
 
 The code is available on github:
 
-* [https://github.com/nestedsoftware/pytorch](https://github.com/nestedsoftware/pytorch)
+{% github nestedsoftware/pytorch %}
 
 ## Related
 

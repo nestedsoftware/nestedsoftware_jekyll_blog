@@ -111,7 +111,7 @@ def get_symmetrical_board_orientations(board_2d):
 
 If you're interested in having a closer look, the github repo with all of the code for this project is available at:
 
-* [https://github.com/nestedsoftware/tictac](https://github.com/nestedsoftware/tictac)
+{% github nestedsoftware/tictac %}
 
 Below are the winning percentages for the different combinations of minimax and random players, with 1000 games played for each combination:
 

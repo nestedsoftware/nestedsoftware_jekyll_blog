@@ -414,7 +414,7 @@ In the graph below, we can see in detail the improvement of this network for the
 
 The code for this article is available in full on github:
 
-* [https://github.com/nestedsoftware/pytorch](https://github.com/nestedsoftware/pytorch)
+{% github nestedsoftware/pytorch %}
 
 ## References:
 

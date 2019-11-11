@@ -323,7 +323,7 @@ Test data results: 0.9796
 
 The code for this article is available in full on github:
 
-* [https://github.com/nestedsoftware/pytorch](https://github.com/nestedsoftware/pytorch)
+{% github nestedsoftware/pytorch %}
 
 
 ## References:

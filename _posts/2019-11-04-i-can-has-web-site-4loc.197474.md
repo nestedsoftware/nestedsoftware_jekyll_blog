@@ -21,7 +21,7 @@ While I did model my list of articles on one of Stackbit's themes, ultimately I 
 
 The first step was to download the contents of my DEV.to blog. To this end, I wrote a few Python scripts: `download_articles.py` uses DEV.to's [REST api](https://docs.dev.to/api/) to download the markdown for my published articles; `download_images.py` then downloads all of the images used in these articles; `copy_and_transform.py` creates a copy of the original content, using regular expressions to apply some transformations to the markdown. There's a master script, `main.py` which runs all of the above scripts. If you're interested in taking a look, you can find a copy of this code on GitHub:
 
-* [https://github.com/nestedsoftware/markdown_manager](https://github.com/nestedsoftware/markdown_manager)
+{% github nestedsoftware/markdown_manager %}
 
 I wrote this code for my own purposes, so I can't guarantee that it will work for everyone else. I did run the scripts against @ben's posts and confirmed that they don't crash.
 
@@ -31,7 +31,7 @@ Next, I set up [Jekyll](https://jekyllrb.com/) to generate the HTML from these m
 
 I set up the Python scripts to produce a Jekyll-compatible directory structure, with articles going into the `_posts` folder, and images going into `assets/images`. The output from the scripts is then copied to the corresponding folders in the Jekyll project:
 
-* [https://github.com/nestedsoftware/nestedsoftware_jekyll_blog](https://github.com/nestedsoftware/nestedsoftware_jekyll_blog)
+{% github nestedsoftware/nestedsoftware_jekyll_blog %}
 
 Jekyll has been quite helpful for several things: I'm using DEV.to's support for a series of articles in a few places, and I found a bit of Jekyll [template code](https://github.com/realjenius/site-samples/blob/master/2012-11-03-jekyll-series-list/series.html) to handle this. I am also currently using the [jekyll-gist](https://github.com/jekyll/jekyll-gist) and [jekyll-codepen](https://github.com/rmcfadzean/jekyll-codepen) plugins. 
 

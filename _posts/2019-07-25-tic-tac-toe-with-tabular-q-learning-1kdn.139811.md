@@ -140,7 +140,7 @@ These results are not as good. This agent doesn't win as many games against the 
 
 The full code is available on github ([qtable.py](https://github.com/nestedsoftware/tictac/blob/master/tictac/qtable.py)):
 
-* [https://github.com/nestedsoftware/tictac](https://github.com/nestedsoftware/tictac)
+{% github nestedsoftware/tictac %}
 
 ## Related
 

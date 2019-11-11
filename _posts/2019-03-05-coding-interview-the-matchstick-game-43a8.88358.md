@@ -297,4 +297,4 @@ You can view a [demo](https://codepen.io/nestedsoftware/pen/LaNqRP) of this exam
 
 All of the source code is available at github:
 
-* [https://github.com/nestedsoftware/matchstick-game](https://github.com/nestedsoftware/matchstick-game)
+{% github nestedsoftware/matchstick-game %}

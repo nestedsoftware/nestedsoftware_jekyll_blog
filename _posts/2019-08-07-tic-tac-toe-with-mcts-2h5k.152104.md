@@ -101,7 +101,7 @@ In practice, I've found that MCTS is often used in an "online" mode. That is, in
 
 The code for this project is available on github ([mcts.py](https://github.com/nestedsoftware/tictac/blob/master/tictac/mcts.py)):
 
-* [https://github.com/nestedsoftware/tictac](https://github.com/nestedsoftware/tictac)
+{% github nestedsoftware/tictac %}
 
 ## Related
 

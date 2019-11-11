@@ -109,7 +109,7 @@ This approach also requires less computation than re-calculating everything in t
 
 A demo with full source code for calculating the mean, variance, and standard deviation using a sliding window is available on github:
 
-* [https://github.com/nestedsoftware/iterative_stats](https://github.com/nestedsoftware/iterative_stats)
+{% github https://github.com/nestedsoftware/iterative_stats %}
 
 ## Related
 
