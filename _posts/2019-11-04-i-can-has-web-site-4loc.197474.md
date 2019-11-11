@@ -33,9 +33,18 @@ I set up the Python scripts to produce a Jekyll-compatible directory structure, 
 
 {% github nestedsoftware/nestedsoftware_jekyll_blog %}
 
-Jekyll has been quite helpful for several things: I'm using DEV.to's support for a series of articles in a few places, and I found a bit of Jekyll [template code](https://github.com/realjenius/site-samples/blob/master/2012-11-03-jekyll-series-list/series.html) to handle this. I am also currently using the [jekyll-gist](https://github.com/jekyll/jekyll-gist) and [jekyll-codepen](https://github.com/rmcfadzean/jekyll-codepen) plugins. 
+Jekyll has been quite helpful for several things: I'm using DEV.to's support for a series of articles in a few places, and I found a bit of Jekyll [template code](https://github.com/realjenius/site-samples/blob/master/2012-11-03-jekyll-series-list/series.html) to handle this. 
 
-Syntax highlighting has probably been the most useful aspect of using Jekyll. I simply downloaded the appropriate [CSS theme](https://github.com/jwarby/jekyll-pygments-themes) for monokai, which tends to be my go-to theme, and voilà, I had a nice-looking display for code examples. 
+I am also using the following plugins:
+
+* [jekyll-gist](https://github.com/jekyll/jekyll-gist) 
+* [jekyll-codepen](https://github.com/rmcfadzean/jekyll-codepen)
+* [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
+* [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
+
+I've written a custom plugin as well, [github_readme_tag.rb](https://github.com/nestedsoftware/nestedsoftware_jekyll_blog/blob/master/_plugins/github_readme_tag.rb) to support embedding a preview of GitHub projects.
+
+Syntax highlighting has been a very useful aspect of using Jekyll. I simply downloaded the appropriate [CSS theme](https://github.com/jwarby/jekyll-pygments-themes) for monokai, which tends to be my go-to theme, and voilà, I had a nice-looking display for code examples. 
 
 ## Design
 
