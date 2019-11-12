@@ -1,5 +1,5 @@
 .article h1 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 1.8em;
 }
 
@@ -9,7 +9,7 @@
 }
 
 .article {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     margin-left: 15px;
     margin-right: 15px;
@@ -98,6 +98,11 @@
   box-shadow: none;
   border: none;
 }
+
+.article blockquote {
+  margin: 25px 25px 25px 25px;
+}
+
 
 @media all and (max-width: 768px), (max-device-width: 768px) {
   .article {
