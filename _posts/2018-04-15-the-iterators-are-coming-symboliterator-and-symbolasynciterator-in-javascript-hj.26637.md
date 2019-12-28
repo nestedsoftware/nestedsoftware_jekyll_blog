@@ -59,15 +59,15 @@ class SimpleIterable {
 	}
 }
 ```
->What is this `[Symbol.iterator]` syntax? Symbol.iterator is a unique identifier (see [Symbol](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol) ). Putting it in square brackets makes it a computed property name. Computed properties were added in ES2015 (see [Object initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) ). The documentation provides this simple example:
+> What is this `[Symbol.iterator]` syntax? Symbol.iterator is a unique identifier (see [Symbol](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol) ). Putting it in square brackets makes it a computed property name. Computed properties were added in ES2015 (see [Object initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer) ). The documentation provides this simple example:
 >
->`// Computed property names (ES2015)`
->`var prop = 'foo';`
->`var o = {`
->`  [prop]: 'hey',`
->`  ['b' + 'ar']: 'there'`
->`};`
->`console.log(o) // { foo: 'hey', bar: 'there' }`
+> `// Computed property names (ES2015)`
+> `var prop = 'foo';`
+> `var o = {`
+> `  [prop]: 'hey',`
+> `  ['b' + 'ar']: 'there'`
+> `};`
+> `console.log(o) // { foo: 'hey', bar: 'there' }`
 >
 
 Let's try it again:
