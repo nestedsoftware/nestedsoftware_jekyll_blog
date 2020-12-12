@@ -2,6 +2,7 @@
 title: CSRF and Cross-Origin Requests by Example
 published: true
 description: How does a CSRF token protect us from cross-site request forgery attacks?
+canonical_url: https://nestedsoftware.com/2020/11/29/csrf-and-cross-origin-requests-by-example-25nb.527705.html
 tags: security, csrf, html, javascript
 cover_image: /assets/images/2020-11-29-csrf-and-cross-origin-requests-by-example-25nb.527705/nvhgtd9luwu92duztyfi.jpg
 ---
@@ -258,4 +259,4 @@ As an example of the kind of complexity we have to deal with when working with C
 
 Separately from the discussion of CSRF in this article, when possible, it is a good idea to make cookies [secure and httponly](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies#Creating_cookies "secure and httponly cookies") as well as [SameSite=strict](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite). While it is unrelated to this article, also please always remember to [sanitize web inputs](https://kevinsmith.io/sanitize-your-inputs "sanitize your inputs") to ward off [XSS attacks](https://owasp.org/www-community/attacks/xss/).
 
-> The examples in this article are meant to illustrate the basic concept of how CSRF tokens working . Please don't use the code in production. Instead, leverage a well-established library appropriate to the particular Web technology you are using.
+> The examples in this article are meant to illustrate the basic concept of how CSRF tokens work . Please don't use the code in production. Instead, leverage a well-established library appropriate to the particular Web technology you are using.
