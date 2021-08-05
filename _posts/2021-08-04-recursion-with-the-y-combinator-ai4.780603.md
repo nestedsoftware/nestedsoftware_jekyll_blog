@@ -2,6 +2,7 @@
 title: Recursion with the Y Combinator
 published: true
 description: Using the Y combinator to implement recursion
+canonical_url: https://nestedsoftware.com/2021/08/04/recursion-with-the-y-combinator-ai4.780603.html
 tags: ycombinator, functional, beginners, javascript
 cover_image: /assets/images/2021-08-04-recursion-with-the-y-combinator-ai4.780603/ghbkv1ofsoa8v8riqzfr.jpg
 ---
@@ -30,7 +31,7 @@ What should this callback look like? Supposing we have already arranged to provi
 ```javascript
 const callRecursively = target => args => 
                             target(args2 => 
-                                target(args3 => target(...)...));
+                                target(args3 => target(...)))(args);
 ```
 When we call our target (the `factorial` function in our case), we need to pass a callback to it that accepts the next parameter that the target will be called with. However, we run into a problem of infinite regress. For each call, we have to to keep supplying a new callback. 
 
