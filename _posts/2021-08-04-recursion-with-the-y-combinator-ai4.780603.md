@@ -18,7 +18,7 @@ Lambdas, i.e. anonymous functions, generally don't have built-in support for rec
 
 Therefore, making recursive calls as above is the way to go. However, let's pretend we can't use recursion directly. As long as our language has support for functions as first-class citizens (they can be assigned to variables, passed in as arguments, and returned like any other object), we can still implement recursion ourselves. One nice way to do so is with a higher-order function called the Y combinator. The name sounds intimidating, but it's just a higher-order function, a function that wraps around another function.
 
-Instead of making a recursive call directly as we did earlier, we will modify our `factorial` function so that is calls a callback function. This callback function will be responsible for calling back into the `factorial` function to complete a recursive call. Our `factorial` function will therefore now have an additional parameter, `recurse`:
+Instead of making a recursive call directly as we did earlier, we will modify our `factorial` function so that it calls a callback function. This callback function will be responsible for calling back into the `factorial` function to complete a recursive call. Our `factorial` function will therefore now have an additional parameter, `recurse`:
 
 ```javascript
 const factorial => recurse => n => n > 1 ? n * recurse(n-1) : 1;
@@ -58,9 +58,9 @@ const factorial = recurse => n => n > 1 ? n * recurse(n-1) : 1;
 Y(factorial)(5); //120
 ```
 
-In the above code, when the target, e.g. `factorial`, is passed into the Y combinator function, the Y combinator will immediately execute `self => target(a => self (self)(a))`. The callback `a => self(self)(a)` is passed to `target` so it can initiate the next recursive call. Keep in mind that `self` is a reference to the function `self => target(a => self(self)(a))`. 
+In the above code, when the target, e.g. `factorial`, and its argument are passed into the Y combinator function, the Y combinator will execute `self => target(a => self (self)(a))`. When the target is executed, the callback `a => self(self)(a)` is passed to the `target` so that it can initiate the next recursive call. Keep in mind that `self` is a reference to the function `self => target(a => self(self)(a))`. 
 
-When our `factorial` function receives the additional argument `5` (note that our target is [curried](https://en.wikipedia.org/wiki/Currying) in this example), it will execute the callback, passing in `4` for the argument `a`. This will trigger a recursive call back into the target, and so on, until the terminating condition for the target function is reached. When our callback code executes, we need to pass a reference to to the handler as the first argument, hence the `self(self)` fragment in the above code. 
+When our `factorial` function receives the argument `5` (note that our target is [curried](https://en.wikipedia.org/wiki/Currying) in this example), it will execute the callback, passing in `4` for the parameter `a`. This will trigger a recursive call back into the target, and so on, until the terminating condition for the target function is reached. When our callback code executes, we need to pass a reference to to the handler as the first argument, hence the `self(self)` fragment in the above code. 
 
 The Y combinator function is not something we expect to see being used in modern programming languages, since they have built-in support for recursion (at least for named functions). However, higher-order functions are an important part of the functional programming paradigm, so working out the details of how such a function behaves can still be a useful exercise. The general idea of composing functions along these lines is commonly applied in functional programming across a wide range of use-cases. 
 
