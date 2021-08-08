@@ -29,9 +29,10 @@ In the above function, instead of calling `factorial` directly, we call the `rec
 What should this callback look like? Supposing we have already arranged to provide a handle to the `factorial` function and its argument, we can consider a `callRecursively` function that looks something like the following:
 
 ```javascript
-const callRecursively = target => args => 
-                            target(args2 => 
-                                target(args3 => target(...)))(args);
+const callRecursively = target => args =>
+                            target(args2 =>
+                                target(args3 => 
+                                    target(...)(args3))(args2))(args);
 ```
 When we call our target (the `factorial` function in our case), we need to pass a callback to it that accepts the next parameter that the target will be called with. However, we run into a problem of infinite regress. For each call, we have to to keep supplying a new callback. 
 
