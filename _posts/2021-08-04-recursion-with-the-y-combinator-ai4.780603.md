@@ -26,7 +26,7 @@ const factorial => recurse => n => n > 1 ? n * recurse(n-1) : 1;
 
 In the above function, instead of calling `factorial` directly, we call the `recurse` callback.
 
-What should this callback look like? Supposing we have already arranged to provide a handle to the `factorial` function and its argument, we can consider a `callRecursively` function that looks something like the following:
+What should this callback look like? We can consider a `callRecursively` function that looks something like the following:
 
 ```javascript
 const callRecursively = target => args =>
