@@ -22,7 +22,7 @@ I/O latency is a common cause of performance obstacles. Replacing multiple calls
 
 Here you would pre-load data from the database and cache it in memory. That way the data can be used/reused without requiring separate round trips to the database.
 
-It's important to keep in mind the possibility that the cached data may be updated during processing, which may or may not have ramification for the given use case.
+It's important to keep in mind the possibility that the cached data may be updated during processing, which may or may not have ramifications for the given use case.
 
 Storing large amounts of data in RAM also increases the resource usage of the application, so it's important to consider the tradeoffs between performance and memory usage.
 
