@@ -1,7 +1,7 @@
 ---
 title: Performance and Scalability for Database-Backed Applications
 published: true
-description: Lessons learneda about improving performance of database-backed applications
+description: Lessons learned about improving performance of database-backed applications
 tags: database, sql, performance, scalability
 cover_image: /assets/images/2024-07-01-performance-and-scalability-for-database-backed-applications-pca.1881507/cdp0f109wcggtuacvs9t.png
 ---
