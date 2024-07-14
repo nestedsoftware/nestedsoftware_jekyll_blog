@@ -90,7 +90,7 @@ Of course services also present many challenges. Modifying a service may cause b
 
 There can be surprising bottlenecks as well. I find this video about Netflix's migration to microservices is still very relevant: 
 
-{%embed https://www.youtube.com/watch?v=CZ3wIuvmHeM %}
+{%youtube CZ3wIuvmHeM %}
 
 With separate databases for each service, we can no longer guarantee the same type of consistency that we get with single transactions against a relational database.
 
